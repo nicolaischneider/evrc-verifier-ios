@@ -1,0 +1,32 @@
+## macOS
+.DS_Store
+
+vendor/
+
+builds/
+
+## Xcode
+## Build generated
+build/
+DerivedData/
+
+## User settings
+*.pbxuser
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+## **/swiftpm takes care that Package.resolved doesn't get pushed
+
+.build/
