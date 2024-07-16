@@ -1,8 +1,8 @@
-# Electronic Vehicle Registration Certificate Veriifer App
+# Electronic Vehicle Registration Certificate (eVRC) Verifier App
 
 ## Description
 
-This iOS verifier application, developed as part of my master thesis, simulates the verification process for electronic Vehicle Registration Certificates (eVRCs) during routine police checks. It's designed as a companion app to the main eVRC management application. The app was developed using SwiftUI and Apple's SF Symbols. For a full explanation of the eVRC system, refer to the [eVRC app](https://github.com/nicolaischneider/evrc-ios).
+This iOS verifier application, developed as part of my master thesis, simulates the verification process for eVRCs during routine police checks. It's designed as a companion app to the main eVRC management application. The app was developed using SwiftUI and Apple's SF Symbols. For a full explanation of the eVRC system, refer to the [eVRC app](https://github.com/nicolaischneider/evrc-ios).
 
 ## Setup
 
