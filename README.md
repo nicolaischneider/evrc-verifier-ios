@@ -17,7 +17,7 @@ This iOS verifier application, developed as part of my master thesis, simulates 
 3. **Set up the iOS Device or Simulator**: Connect your iOS device to your Mac and select it in Xcode, or use an iOS simulator.
 4. **Run the Application**: Press the 'Run' button in Xcode to build and run the app on your chosen device.
 
-### Verify an eVRC
+## Verify an eVRC
 
 1. Open the eVRC app
 2. Navigate to "Verification"
